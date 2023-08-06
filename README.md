@@ -1,3 +1,5 @@
+<img src = "github-1.gif" width = "325px" align = "right">
+
 # Faculdade - UNIVESP
 
 Repositório dos Meus Projetos e Códigos da Faculdade
